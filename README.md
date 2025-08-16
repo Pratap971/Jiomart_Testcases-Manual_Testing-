@@ -20,7 +20,7 @@ Only 5 added silently due to unnotified limit
 
 
 
-# BugReport_jiomart.xlsx:
+# BugReport_jiomart.docx:
 
 - Lists 5 bugs identified during testing:  
 
